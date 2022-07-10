@@ -1,0 +1,11 @@
+services:
+  - name: "azure"
+
+    address: http://49.235.96.248:9090/
+
+  - name: "test"
+
+    address: http://49.235.96.248:9090/ 
+  
+
+day: 7d
