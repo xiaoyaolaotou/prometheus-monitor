@@ -1,4 +1,5 @@
 1、通过配置文件获取promethues监控数据
+
 2、获取字段
     - ip
     - hostname

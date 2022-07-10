@@ -1,7 +1,6 @@
 package initialize
 
 import (
-	"fmt"
 	"log"
 	"monitor/global"
 
